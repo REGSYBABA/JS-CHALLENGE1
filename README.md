@@ -1,1 +1,2 @@
 # JS-CHALLENGE1
+it's basically a challenge i'm partaking in where i make use of vanilla js to build a drumkit; where hitting the corresponding key on your keyboard it plays the sound associted with the key alongside some animations
